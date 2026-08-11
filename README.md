@@ -16,5 +16,6 @@
 1. Instala la extensión [Stylus](https://github.com/openstyles/stylus) ([Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/))
 2. Descarga el [archivo stylus.json](https://github.com/Sipnicc/Lishogi_Theme/blob/main/stylus.json)
 3. Abre la extensión i haz clic en Import, luego selecciona el archivo que acabas de descargar.
+4. 
 ![Ejemplo visual](https://github.com/Sipnicc/Lishogi_Theme/blob/main/screenshot_2026-08-11_17-17-17.png?raw=true)
 5. Todo listo! Diviértete!
