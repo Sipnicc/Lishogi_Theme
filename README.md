@@ -13,7 +13,7 @@
 4. You're all set! Have fun playing with your new theme!
 
 # 🇪🇸
-# Tema de piezas para Lishogi!
+# Aspecto de piezas para Lishogi!
 ## Instalación
 1. Instala la extensión [Stylus](https://github.com/openstyles/stylus) ([Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/))
 2. Descarga el [archivo stylus.json](https://github.com/Sipnicc/Lishogi_Theme/blob/main/stylus.json)
