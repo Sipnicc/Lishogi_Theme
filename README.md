@@ -8,7 +8,6 @@
 2. Download the [stylus.json file](https://github.com/Sipnicc/Lishogi_Theme/blob/main/stylus.json)
 3. Open the Stylus extension and click on Import. Then select the stylus.json file you downloaded.
 ![Visual indicator](https://github.com/Sipnicc/Lishogi_Theme/blob/main/screenshot_2026-08-11_17-17-17.png?raw=true)
-
 5. You're all set! Have fun playing with your new theme!
 
 # 🇪🇸
@@ -18,5 +17,4 @@
 2. Descarga el [archivo stylus.json](https://github.com/Sipnicc/Lishogi_Theme/blob/main/stylus.json)
 3. Abre la extensión i haz clic en Import, luego selecciona el archivo que acabas de descargar.
 ![Ejemplo visual](https://github.com/Sipnicc/Lishogi_Theme/blob/main/screenshot_2026-08-11_17-17-17.png?raw=true)
-
 5. Todo listo! Diviértete!
